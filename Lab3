@@ -1,0 +1,9 @@
+Requirements
+1. Create a GitHub account.
+2. Set up a new repository named username.github.io, where username is your GitHub username.
+3. Add at least a home page to give a brief introduction of yourself.
+4. Optional: Customize the layout and style using HTML and CSS by using Jekyll themes or other templates.
+5. Publish the website and verify that it is accessible at https://username.github.io.
+
+I have already set a repository:
+https://github.com/ACCIO-snowman/Cloud-Computing-Lab
